@@ -1,7 +1,7 @@
 import pygame 
 
-SCREEN_WIDTH = 640
-SCREEN_HEIGHT = 480
+SCREEN_WIDTH = 1000
+SCREEN_HEIGHT = 750
 is_fullscreen = False 
 screen = pygame.display.set_mode((SCREEN_WIDTH, SCREEN_HEIGHT))
 
